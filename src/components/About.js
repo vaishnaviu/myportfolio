@@ -1,5 +1,5 @@
 import React from 'react';
-import vaishnaviImage from '../vaishnavi_upadhye.jpg';
+import vaishnaviImage from '../vaishnavi_upadhye.png';
 
 function About() {
   return (
