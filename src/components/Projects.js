@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Portfolio() {
+function Projects() {
   return (
     <section id="portfolio">
-      <h2>Portfolio</h2>
+      <h2>Projects</h2>
       <div className="project">
         <h3>Facial Recognition</h3>
         <p>
