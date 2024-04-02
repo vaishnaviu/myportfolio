@@ -2,7 +2,7 @@ import React from 'react';
 
 function Projects() {
   return (
-    <section id="portfolio">
+    <section id="projects">
       <h2>Projects</h2>
       <div className="project">
         <h3>Facial Recognition</h3>
@@ -44,4 +44,4 @@ function Projects() {
   );
 }
 
-export default Portfolio;
+export default Projects;
