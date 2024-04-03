@@ -1,0 +1,28 @@
+/* Navigation bar styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #333; /* Dark background color */
+    display: flex; /* Use flexbox */
+  }
+  
+  nav ul li {
+    margin-right: 10px; /* Add some space between items */
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0; /* Remove margin for the last item */
+  }
+  
+  nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff; /* White text color */
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555; /* Darker background color on hover */
+  }
+  
